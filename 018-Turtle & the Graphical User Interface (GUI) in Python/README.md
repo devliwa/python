@@ -1,5 +1,11 @@
 # Turtle & the Graphical User Interface (GUI) in Python
 
+## Source
+- [turtle — Turtle graphics](https://docs.python.org/3/library/turtle.html)
+- [trinket colors](https://trinket.io/docs/colors)
+- [Turtle Colors](https://cs111.wellesley.edu/reference/colors)
+
+---
 This lesson covers:
 - Using **Turtle** to create graphics in Python  
 - Understanding the basics of a **Graphical User Interface (GUI)**  

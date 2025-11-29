@@ -7,7 +7,7 @@
 
  
 ### basic-code-learning
-- [Lesson 1: Beginner - Working with Variables in Python to Manage Data](https://github.com/devliwa/python/tree/main/Lesson%201)
+- [01 - Beginner - Working with Variables in Python to Manage Data](https://github.com/devliwa/python/tree/main/Lesson%201)
 - [Lesson 2: Beginner - Understanding Data Types and How to Manipulate Strings](https://github.com/devliwa/python/tree/main/Lesson%202)
 - [Lesson 3: Beginner - Control Flow and Logical Operators](https://github.com/devliwa/python/tree/main/Lesson%203)
 - [Lesson 4: Beginner - Randomisation and Python Lists](https://github.com/devliwa/python/tree/main/Lesson%204)

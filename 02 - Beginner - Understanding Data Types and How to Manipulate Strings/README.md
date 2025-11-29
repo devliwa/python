@@ -1,4 +1,4 @@
-Lesson-2
+02-lesson
 
 Understanding Data Types and How to Manipulate Strings
 	•	Floating-Point Arithmetic: Issues and Limitations

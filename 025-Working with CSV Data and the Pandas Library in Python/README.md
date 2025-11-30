@@ -7,6 +7,11 @@ This lesson covers:
 
 ---
 
+## Soureces
+- [pandas documentation](https://pandas.pydata.org/docs/#pandas-documentation)
+- [API reference](https://pandas.pydata.org/docs/reference/index.html)
+
+---
 ## 1. Introduction to Pandas
 
 - **Pandas** is a powerful Python library for **data analysis and manipulation**  
